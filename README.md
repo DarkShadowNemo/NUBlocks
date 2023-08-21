@@ -1,2 +1,2 @@
-# oldGHGwithFaces-Patch
-this is a ghg patch that squeezes faces in bytes to between the float to the vertex z and x in order to increment the correct faces in order to make it work in blender needs testing and debugging ingame
+# NUBlocks level editor
+this is a WIP coming soon PS2 level editor for finding nemo that might work in blender, things have not been planned yet but it will be in the future soon, so i haven't got planned which language i can choose to make this level editor to work it might not be blender it might be something else that i'm not skillful like C++ to make a level editor of finding nemo for the ps2 version??????
